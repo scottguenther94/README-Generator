@@ -1,7 +1,7 @@
 
-# Scotty
+# Project 1
 
-## its a great project
+## project
 
 ## Table of Contents
 
@@ -9,7 +9,7 @@
 
 - [Usage](#usage)
 
-- [Contributions](#constributions)
+- [Contributions](#contributions)
 
 - [Testing](#testing)
 
@@ -40,11 +40,11 @@ test it
             
 ## License
 
-Boost
+
 
 
 ## Questions?
 
-- Feel free to reach out to me via email at scotty !
+- Feel free to reach out to me via email at Scotty@gmail.com !
 
-- For further examples of my work, visit my GitHub: github.com/scotty
+- For further examples of my work, visit my GitHub: github.com/Scotty
