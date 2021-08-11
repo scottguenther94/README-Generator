@@ -60,7 +60,7 @@ const questions = [
 ## Table of Contents\n
 - [Installation](#installation)\n
 - [Usage](#usage)\n
-- [Contributions](#constributions)\n
+- [Contributions](#contributions)\n
 - [Testing](#testing)\n
 - [License](#license)\n
 - [Questions](#questions)\n
